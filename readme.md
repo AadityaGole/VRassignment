@@ -18,4 +18,5 @@ git clone https://github.com/AadityaGole/VRassignment
 
 ## Usage
 
+Add the  images with matching features in the unstiched images folder and then run each block 
 After running the code, windows will open for confirmation. Press Enter to continue with the code.
