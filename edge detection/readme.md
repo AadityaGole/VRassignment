@@ -27,4 +27,5 @@ The `counting.ipynb` notebook detects and counts coins in a single image. To use
 4. The total number of detected coins will be printed in the terminal.
 
 ## Usage
+add the image in the same root folder as the notebook and then replace coin.jpg with the name of your pic
 After running the code, a window will open for confirmation. Press Enter to continue with the code.
